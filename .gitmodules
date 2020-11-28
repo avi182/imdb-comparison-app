@@ -1,3 +1,6 @@
 [submodule "imdb-scraper"]
 	path = imdb-scraper
 	url = https://github.com/avi182/imdb-scraper.git
+[submodule "imdb-analytics"]
+	path = imdb-analytics
+	url = https://github.com/avi182/imdb-analytics.git
